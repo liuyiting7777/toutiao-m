@@ -9,3 +9,4 @@ export default new Vuex.Store({
   actions: {},
   modules: {}
 })
+//  2222222222
